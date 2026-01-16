@@ -1,7 +1,7 @@
 param([int]$ForceUpdate = 0)
 
 $ErrorActionPreference = 'SilentlyContinue'
-$baseDir = "C:\MyRice\"
+$baseDir = Split-Path -Parent $PSScriptRoot
 $dataDir = Join-Path $baseDir "Data"
 $backupDir = Join-Path $baseDir "Backup"
 
