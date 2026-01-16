@@ -1,4 +1,4 @@
-# 🎨 Manar Aesthetic Wallpaper Changer
+# 🎨 Mventor Aesthetic Wallpaper Changer
 A professional Windows automation tool that switches wallpapers with a minimalist Figma-style watermark.
 
 ## ✨ Key Features
